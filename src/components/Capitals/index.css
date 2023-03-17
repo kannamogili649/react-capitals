@@ -1,0 +1,26 @@
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+}
+.content-container {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  border-width: 0;
+  padding: 30px;
+}
+.capitals {
+  width: 150px;
+  height: 25px;
+}
+.para {
+  font-size: 12px;
+}
+.capital-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
